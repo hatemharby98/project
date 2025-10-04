@@ -16,7 +16,8 @@
 - Sarah Atef Ahmed
 
 ## 📌 Supervisor  
-- Dr. Safwat  
+- Dr. Safwat Mohamed
+- ُEng. Mohamed Muhammad Al -Sagheer
 
 ## 📝 Project Summary  
 This project demonstrates the concept of an **Intrusion Prevention System (IPS)**.  
