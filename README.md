@@ -17,7 +17,7 @@
 
 ## 📌 Supervisor  
 - Dr. Safwat Mohamed
-- ُEng. Mohamed Muhammad Al -Sagheer
+- ُEng. Mohamed Al -Sagheer
 
 ## 📝 Project Summary  
 This project demonstrates the concept of an **Intrusion Prevention System (IPS)**.  
